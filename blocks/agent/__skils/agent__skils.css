@@ -1,4 +1,7 @@
 .agent__skils {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
   position: absolute;
   right: -40px;
   bottom: -40px;

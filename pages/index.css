@@ -5,6 +5,12 @@
 
 @import url(../blocks/page/page.css);
 @import url(../blocks/page/__decor/page__decor.css);
+@import url(../blocks/page/__decor1/page__decor1.css);
+@import url(../blocks/page/__decor2/page__decor2.css);
+@import url(../blocks/page/__decor3/page__decor3.css);
+@import url(../blocks/page/__decor4/page__decor4.css);
+@import url(../blocks/page/__decor5/page__decor5.css);
+@import url(../blocks/page/__decor6/page__decor6.css);
 
 @import url(../blocks/main/main.css);
 
@@ -24,5 +30,16 @@
 @import url(../blocks/agent/__name/agent__name.css);
 @import url(../blocks/agent/__country/agent__country.css);
 @import url(../blocks/agent/__name/_them/agent__name_them.css);
+@import url(../blocks/agent/__icon/agent__icon.css);
+
+@import url(../blocks/percs/percs.css);
+@import url(../blocks/perc/__title/perc__title.css);
+@import url(../blocks/perc/__sab-title/perc__sab-title.css);
+@import url(../blocks/perc/__paragraph/perc__paragraph.css);
+@import url(../blocks/perc/__decor/perc__decor.css);
+@import url(../blocks/perc/__logo/perc__logo.css);
+@import url(../blocks/perc/__logo/_tem/perc__logo_tem.css);
+
+@import url(../blocks/perc/perc.css);
 
 @import url(../blocks/footer/footer.css);

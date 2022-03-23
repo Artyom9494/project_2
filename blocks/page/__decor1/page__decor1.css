@@ -1,0 +1,9 @@
+.page__decor1 {
+  height: 268px;
+  width: 268px;
+  position: absolute;
+  top: 182px;
+  right: 104px;
+  border-radius: 50%;
+  background: #fff;
+}

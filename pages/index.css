@@ -1,0 +1,28 @@
+@import url(../vendor/normalize.css);
+
+@import url(../blocks/fonts/fonts.css);
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,300;0,500;0,700;1,100;1,200;1,500&family=PT+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap");
+
+@import url(../blocks/page/page.css);
+@import url(../blocks/page/__decor/page__decor.css);
+
+@import url(../blocks/main/main.css);
+
+@import url(../blocks/header/header.css);
+
+@import url(../blocks/content/content.css);
+@import url(../blocks/content/__background/content__background.css);
+@import url(../blocks/content/__title/content__title.css);
+
+@import url(../blocks/logo/logo.css);
+
+@import url(../blocks/cards/cards.css);
+
+@import url(../blocks/agent/agent.css);
+@import url(../blocks/agent/__skils/agent__skils.css);
+@import url(../blocks/agent/__skils/_them/agent__skils_them.css);
+@import url(../blocks/agent/__name/agent__name.css);
+@import url(../blocks/agent/__country/agent__country.css);
+@import url(../blocks/agent/__name/_them/agent__name_them.css);
+
+@import url(../blocks/footer/footer.css);

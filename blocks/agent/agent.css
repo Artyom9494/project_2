@@ -1,0 +1,11 @@
+.agent {
+  position: relative;
+  height: 990px;
+  width: 440px;
+  background: #1f2326;
+  border-radius: 20px 0 20px 0;
+}
+
+.agent:last-child {
+  background: #fff;
+}

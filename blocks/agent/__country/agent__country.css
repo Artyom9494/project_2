@@ -1,0 +1,13 @@
+.agent__country {
+  color: #ff4656;
+  writing-mode: vertical-lr;
+  position: absolute;
+  top: 40px;
+  left: 18px;
+
+  font-family: Druk Wide;
+  font-size: 34px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 31px;
+}

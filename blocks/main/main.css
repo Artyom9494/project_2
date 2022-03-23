@@ -1,0 +1,9 @@
+.main {
+  width: 2663px;
+  position: absolute;
+  top: 303px;
+  right: 218px;
+  z-index: 2;
+  border-radius: 50px;
+  /* overflow: hidden; */
+}

@@ -1,0 +1,9 @@
+.agent__skils_them {
+  position: absolute;
+  right: -40px;
+  bottom: -40px;
+  height: 110px;
+  width: 440px;
+  background: #fff;
+  border: solid 1px #000;
+}

@@ -1,0 +1,15 @@
+.agent__name {
+  writing-mode: vertical-lr;
+  position: absolute;
+  top: 40px;
+  left: -168px;
+  height: 94px;
+  width: 514px;
+  font-family: Druk Wide;
+  font-size: 120px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 94px;
+  color: #fff;
+  z-index: 4;
+}

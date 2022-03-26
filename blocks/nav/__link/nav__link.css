@@ -5,4 +5,10 @@
   font-style: normal;
   text-align: center;
   text-decoration: none;
+  opacity: 1;
+  transition: opacity 0.2s;
+}
+
+.nav__link:hover {
+  opacity: 0.5;
 }

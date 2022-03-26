@@ -4,8 +4,15 @@
   width: 440px;
   background: #1f2326;
   border-radius: 20px 0 20px 0;
+  transform: scale(1);
+  transition: 1.2s;
 }
 
 .agent:last-child {
   background: #fff;
+}
+
+.agent:hover {
+  box-shadow: 9px 9px 5px red;
+  transform: scale(1.2);
 }

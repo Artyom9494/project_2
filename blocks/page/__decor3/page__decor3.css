@@ -6,4 +6,5 @@
   right: 35px;
   border-radius: 50%;
   background: #505155;
+  animation: move 5s infinite alternate;
 }

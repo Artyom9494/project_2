@@ -6,4 +6,5 @@
   left: 118px;
   border-radius: 50%;
   background: #505155;
+  animation: page__decor6 3s infinite alternate;
 }

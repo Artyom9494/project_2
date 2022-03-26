@@ -1,0 +1,48 @@
+@keyframes page__decor {
+  from {
+    transform: scale(1);
+  }
+  to {
+    transform: scale(1.15);
+  }
+}
+
+@keyframes move {
+  0% {
+    transform: translate(0px, 250px);
+  }
+  50% {
+    transform: skew(15deg, 15deg);
+  }
+
+  100% {
+    transform: translate(0px, 750px);
+  }
+}
+
+@keyframes page__decor6 {
+  form {
+    transform: skew(20deg, 20deg);
+  }
+  to {
+    transform: skew(50deg, 50deg);
+  }
+}
+
+@keyframes page__decor5 {
+  from {
+    transform: scale(1);
+  }
+  to {
+    transform: scale(1.11);
+  }
+}
+
+@keyframes page__decor1 {
+  from {
+    transform: scale(1);
+  }
+  to {
+    transform: scale(1.11);
+  }
+}

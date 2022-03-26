@@ -6,4 +6,5 @@
   top: -711px;
   border-radius: 50%;
   background: #ff4656;
+  animation: page__decor 2s infinite alternate;
 }

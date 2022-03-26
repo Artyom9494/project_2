@@ -1,0 +1,6 @@
+.header__logo {
+  margin: 0 86px 0 0;
+  width: 241px;
+  display: flex;
+  justify-content: space-between;
+}

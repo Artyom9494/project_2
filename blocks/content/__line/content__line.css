@@ -1,0 +1,8 @@
+.content__line {
+  position: absolute;
+  left: 102px;
+  bottom: 350px;
+  height: 8px;
+  width: 232px;
+  background: #1f2326;
+}
